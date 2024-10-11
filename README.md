@@ -9,3 +9,5 @@ Editting from Github to the main branch
 Trying to a push an edit into github
 
 Trying branches in github
+
+#Pushing an edit to github through a new branch
